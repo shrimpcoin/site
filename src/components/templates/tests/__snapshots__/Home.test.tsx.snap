@@ -1,0 +1,453 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home 1`] = `
+<div
+  className="sc-hHEiqL dqOYKJ"
+>
+  <header
+    className="sc-dlnjwi HIxRO"
+    style={
+      Object {
+        "borderBottom": "0px",
+        "padding": "1em 0em",
+      }
+    }
+  >
+    <nav>
+      <a
+        className="sc-bdnxRM dWhvqn"
+        color="black"
+        href="#"
+      >
+        Innovation
+      </a>
+      <a
+        className="sc-bdnxRM dWhvqn"
+        color="black"
+        href="#"
+      >
+        Developers
+      </a>
+      <a
+        className="sc-bdnxRM dWhvqn"
+        color="black"
+        href="#"
+      >
+        Community
+      </a>
+      <a
+        className="sc-bdnxRM dWhvqn"
+        color="black"
+        href="#"
+      >
+        FAQ
+      </a>
+    </nav>
+  </header>
+  <div
+    className="sc-dlMDgC fmTrow"
+  >
+    <div
+      className="sc-hKFxyN eoejAR"
+    >
+      <div
+        className="sc-eCApnc kpssIJ"
+      >
+        <svg>
+          shrimpcoin.svg
+        </svg>
+        <div
+          className="sc-jSFjdj fodXDP"
+        >
+          <p>
+            It's time to get shrimp done.
+          </p>
+          <a
+            className="sc-gtsrHT iqScyo"
+            href="/wallet"
+          >
+            Get Started
+          </a>
+        </div>
+      </div>
+      <svg
+        preserveAspectRatio="none"
+        style={
+          Object {
+            "bottom": "0%",
+            "height": "20%",
+            "position": "absolute",
+            "width": "100%",
+          }
+        }
+      >
+        wave.svg
+      </svg>
+    </div>
+    <div
+      className="sc-gKAaRy hHUmcj"
+    >
+      <div
+        className="sc-iCoGMd icoDYc"
+      >
+        <div
+          className="sc-fujyAs grpxyi"
+        >
+          What 
+          <strong>
+            is
+          </strong>
+           Shrimpcoin?
+        </div>
+        <div
+          className="sc-fujyAs grpxyi"
+          style={
+            Object {
+              "border": "2px solid white",
+              "padding": "1em",
+              "width": "40%",
+            }
+          }
+        >
+          <strong>
+            We're glad you asked.
+          </strong>
+           Shrimpcoin (SHMPC) is a revolutionary new stable cryptocurrency that is pinned to the value of exactly one shrimp.
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-pNWdM kRSRja"
+    >
+      <svg
+        preserveAspectRatio="none"
+        style={
+          Object {
+            "height": "100%",
+            "left": "0px",
+            "position": "absolute",
+            "width": "40%",
+          }
+        }
+      >
+        roundedtriangle.svg
+      </svg>
+      <div
+        className="sc-jrsJWt jzoeNA"
+      >
+        <div
+          className="sc-kEqXSa gJqMgq"
+          style={
+            Object {
+              "fontWeight": 400,
+            }
+          }
+        >
+          Why shrimp?
+        </div>
+        <div
+          className="sc-kEqXSa gJqMgq"
+          style={
+            Object {
+              "width": "40%",
+            }
+          }
+        >
+          The cutting-edge Shrimpcoin protocol runs on the Ergo blockchain, using smart contracts to determine the price of shrimp on the fly.
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-iqAclL iYcOuS"
+    >
+      <div
+        className="sc-crzoAE dKWSDp"
+      >
+        <div
+          className="sc-dIsUp bzfYiN"
+          style={
+            Object {
+              "borderBottom": "1px solid black",
+              "fontWeight": 400,
+            }
+          }
+        >
+          You didn't answer my question.
+        </div>
+        <div
+          className="sc-dIsUp bzfYiN"
+          style={
+            Object {
+              "width": "70%",
+            }
+          }
+        >
+          Shrimpcoin is backed by SCHIT (ShrimpCoin Hoard Index Token), which provides liquidity to Shrimpcoin HODLers.
+
+The value of SCHIT goes up when ERG goes up, and down when ERG goes down, because more ERG is needed to cover the outstanding Shrimpcoin.
+
+SCHIT price also increases when people use the Shrimpcoin contract, as a portion of the transaction fees collected goes to the value of SCHIT.
+        </div>
+        <a
+          className="sc-gtsrHT jcFvFI"
+          href="#"
+        >
+          Learn More
+        </a>
+      </div>
+    </div>
+    <div
+      className="sc-bqGGPW curESa"
+    >
+      <svg
+        style={
+          Object {
+            "left": "0%",
+            "margin": "auto",
+            "position": "absolute",
+            "width": "100%",
+          }
+        }
+      >
+        faqsword.svg
+      </svg>
+      <div
+        className="sc-hBMUJo iEWWZc"
+        style={
+          Object {
+            "left": "50%",
+            "top": "6.5%",
+            "transform": "translateX(-50%)",
+          }
+        }
+      >
+        ...
+        <strong>
+          Fine.
+        </strong>
+         What makes Shrimpcoin a good stablecoin?
+      </div>
+      <div
+        className="sc-ksluID jhoWrE"
+      >
+        <div
+          className="sc-fnVZcZ gnXSsI"
+          style={
+            Object {
+              "width": "18%",
+            }
+          }
+        >
+          <p
+            style={
+              Object {
+                "borderBottom": "1px solid black",
+                "fontWeight": 400,
+              }
+            }
+          >
+            Low Gas Prices
+          </p>
+          Thanks to the work of countless Ergonauts, gas prices - or transaction fees - are very low compared to other platforms. Many stablecoins reside on the Ethereum blockchain, which is notorious for its high gas prices.
+          <a
+            className="sc-gtsrHT hgKebi"
+            href="#"
+            style={
+              Object {
+                "margin": "2em",
+              }
+            }
+          >
+            Learn More
+          </a>
+        </div>
+        <div
+          className="sc-fnVZcZ gnXSsI"
+          style={
+            Object {
+              "width": "18%",
+            }
+          }
+        >
+          <p
+            style={
+              Object {
+                "borderBottom": "1px solid black",
+                "fontWeight": 400,
+              }
+            }
+          >
+            Open Source
+          </p>
+          Unlike other popular stablecoins, Shrimpcoin is fully open-source; even the code for this website is hosted on our GitHub. This means that Shrimpcoin is constantly being improved by the people that actually use it.
+          <a
+            className="sc-gtsrHT jcFvFI"
+            href="#"
+            style={
+              Object {
+                "margin": "2em",
+              }
+            }
+          >
+            Learn More
+          </a>
+        </div>
+        <div
+          className="sc-fnVZcZ gnXSsI"
+          style={
+            Object {
+              "width": "18%",
+            }
+          }
+        >
+          <p
+            style={
+              Object {
+                "borderBottom": "1px solid black",
+                "fontWeight": 400,
+              }
+            }
+          >
+            Shrimp Technology
+          </p>
+          Our shrimp roots enable us to shrimp faster and harder than any other cryptocurrency on the market. By utilizing our shrimp techology, we can optimize our shellfish to a level only theorized by some.
+          <a
+            className="sc-gtsrHT hgKebi"
+            href="#"
+            style={
+              Object {
+                "margin": "2em",
+              }
+            }
+          >
+            Learn More
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-fFSPTT ezXqEn"
+    >
+      <div
+        className="sc-bkbkJK hFsfOI"
+      >
+        <div
+          className="sc-iemWCZ jkzVzV"
+          style={
+            Object {
+              "borderBottom": "1px solid white",
+              "fontWeight": 400,
+            }
+          }
+        >
+          How can I support this amazing project?
+        </div>
+        <div
+          className="sc-iemWCZ jkzVzV"
+          style={
+            Object {
+              "width": "70%",
+            }
+          }
+        >
+          Firstly, you can
+          <a
+            className="sc-bdnxRM hVhMjo"
+            color="white"
+            href="#"
+            style={
+              Object {
+                "fontSize": "inherit",
+                "fontWeight": 500,
+                "padding": "0px",
+              }
+            }
+          >
+             Get Started 
+          </a>
+          and buy some Shrimpcoin for yourself. Just to see how good it feels in your wallet.
+          
+
+
+          You can also
+          <a
+            className="sc-bdnxRM hVhMjo"
+            color="white"
+            href="#"
+            style={
+              Object {
+                "fontSize": "inherit",
+                "fontWeight": 500,
+                "padding": "0px",
+              }
+            }
+          >
+             donate to 8oC
+          </a>
+          , the organization behind Shrimpcoin. We also make all sorts of other projects and art, which you’ll probably like if you’ve read this far.
+          
+
+
+          If you’re a developer, feel free to
+          <a
+            className="sc-bdnxRM hVhMjo"
+            color="white"
+            href="#"
+            style={
+              Object {
+                "fontSize": "inherit",
+                "fontWeight": 500,
+                "padding": "0px",
+              }
+            }
+          >
+             join the Shrimpcoin Discord 
+          </a>
+          or start cracking issues on our
+          <a
+            className="sc-bdnxRM hVhMjo"
+            color="white"
+            href="#"
+            style={
+              Object {
+                "fontSize": "inherit",
+                "fontWeight": 500,
+                "padding": "0px",
+              }
+            }
+          >
+             GitHub repo
+          </a>
+          .
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer
+    className="sc-dIvrsQ jjqUvl"
+  >
+    <nav
+      style={
+        Object {
+          "margin": "0px 1em 0px 1em",
+        }
+      }
+    >
+      <p>
+        © 8oC 2021 Released under the MIT license
+      </p>
+    </nav>
+    <nav
+      style={
+        Object {
+          "margin": "0px 1em 0px 1em",
+        }
+      }
+    >
+      <a>
+        Contact us
+      </a>
+    </nav>
+  </footer>
+</div>
+`;

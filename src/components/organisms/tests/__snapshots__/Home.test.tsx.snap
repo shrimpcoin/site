@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hero 1`] = `
+<div
+  className="sc-gtsrHT iazTCh"
+>
+  <div
+    className="sc-dlnjwi fouFvp"
+  >
+    <svg>
+      shrimpcoin.svg
+    </svg>
+    <div
+      className="sc-hKFxyN kFKRQu"
+    >
+      <p>
+        It's time to get shrimp done.
+      </p>
+      <a
+        className="sc-bdnxRM dhIpaF"
+        href="/wallet"
+      >
+        Get Started
+      </a>
+    </div>
+  </div>
+  <svg
+    preserveAspectRatio="none"
+    style={
+      Object {
+        "bottom": "0%",
+        "height": "20%",
+        "position": "absolute",
+        "width": "100%",
+      }
+    }
+  >
+    wave.svg
+  </svg>
+</div>
+`;

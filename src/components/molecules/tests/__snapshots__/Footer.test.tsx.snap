@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer 1`] = `
+<footer
+  className="sc-bdnxRM emnaUZ"
+>
+  <nav
+    style={
+      Object {
+        "margin": "0px 1em 0px 1em",
+      }
+    }
+  >
+    <p>
+      © 8oC 2021 Released under the MIT license
+    </p>
+  </nav>
+  <nav
+    style={
+      Object {
+        "margin": "0px 1em 0px 1em",
+      }
+    }
+  >
+    <a>
+      Contact us
+    </a>
+  </nav>
+</footer>
+`;

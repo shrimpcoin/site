@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button 1`] = `
+<a
+  className="sc-bdnxRM hhsNFu"
+  href="#"
+>
+  Button
+</a>
+`;
