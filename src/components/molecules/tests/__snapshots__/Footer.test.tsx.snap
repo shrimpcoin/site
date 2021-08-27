@@ -2,7 +2,7 @@
 
 exports[`Footer 1`] = `
 <footer
-  className="sc-bdnxRM emnaUZ"
+  className="sc-gtsrHT iwGtzM"
 >
   <nav
     style={
@@ -22,7 +22,16 @@ exports[`Footer 1`] = `
       }
     }
   >
-    <a>
+    <a
+      className="sc-bdnxRM hVhMjo"
+      color="white"
+      href="/contact"
+      style={
+        Object {
+          "fontSize": "1em",
+        }
+      }
+    >
       Contact us
     </a>
   </nav>

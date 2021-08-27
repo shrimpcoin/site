@@ -4,7 +4,7 @@ import { Header } from '../Header';
 
 test('Header Primary', () => {
   const component = renderer.create(<Header scrollDist={300} />);
-  
+
   let tree = component.toJSON();
   expect(tree).toMatchSnapshot();
 });

@@ -2,7 +2,6 @@ import React from 'react';
 import styled from 'styled-components';
 
 import { Link } from 'components/atoms/Link';
-import { Button } from 'components/atoms/Button';
 
 const Container = styled.footer`
   display: flex;
@@ -30,7 +29,9 @@ export const Footer: React.FC = (): React.ReactElement => (
       <p>© 8oC 2021 Released under the MIT license</p>
     </nav>
     <nav style={{ margin: '0px 1em 0px 1em' }}>
-      <a>Contact us</a>
+      <Link color={'white'} fadecolor={'black'} href="/contact" style={{ fontSize: '1em' }}>
+        Contact us
+      </Link>
     </nav>
   </Container>
 );

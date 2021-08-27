@@ -136,7 +136,7 @@ exports[`Four 1`] = `
     className="sc-kEqXSa lfQcTh"
   >
     <div
-      className="sc-crzoAE BUPJ"
+      className="sc-crzoAE gbrlJu"
       style={
         Object {
           "width": "18%",
@@ -167,7 +167,7 @@ exports[`Four 1`] = `
       </a>
     </div>
     <div
-      className="sc-crzoAE BUPJ"
+      className="sc-crzoAE gbrlJu"
       style={
         Object {
           "width": "18%",
@@ -198,7 +198,7 @@ exports[`Four 1`] = `
       </a>
     </div>
     <div
-      className="sc-crzoAE BUPJ"
+      className="sc-crzoAE gbrlJu"
       style={
         Object {
           "width": "18%",

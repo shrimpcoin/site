@@ -41,6 +41,8 @@ const Answer = styled.div`
   justify-content: space-evenly;
   z-index: 1;
 
+  text-align: center;
+
   font-family: 'Manrope';
   font-size: 1.5em;
   font-weight: 300;

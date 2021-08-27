@@ -1,48 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Header 1`] = `
-<header
-  className="sc-dlnjwi HIxRO"
-  style={
-    Object {
-      "borderBottom": "0px",
-      "padding": "1em 0em",
-    }
-  }
->
-  <nav>
-    <a
-      className="sc-bdnxRM dWhvqn"
-      color="black"
-      href="#"
-    >
-      Innovation
-    </a>
-    <a
-      className="sc-bdnxRM dWhvqn"
-      color="black"
-      href="#"
-    >
-      Developers
-    </a>
-    <a
-      className="sc-bdnxRM dWhvqn"
-      color="black"
-      href="#"
-    >
-      Community
-    </a>
-    <a
-      className="sc-bdnxRM dWhvqn"
-      color="black"
-      href="#"
-    >
-      FAQ
-    </a>
-  </nav>
-</header>
-`;
-
 exports[`Header Primary 1`] = `
 <header
   className="sc-dlnjwi HIxRO"

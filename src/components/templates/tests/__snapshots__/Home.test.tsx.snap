@@ -231,7 +231,7 @@ SCHIT price also increases when people use the Shrimpcoin contract, as a portion
         className="sc-ksluID jhoWrE"
       >
         <div
-          className="sc-fnVZcZ gnXSsI"
+          className="sc-fnVZcZ bwjFYf"
           style={
             Object {
               "width": "18%",
@@ -262,7 +262,7 @@ SCHIT price also increases when people use the Shrimpcoin contract, as a portion
           </a>
         </div>
         <div
-          className="sc-fnVZcZ gnXSsI"
+          className="sc-fnVZcZ bwjFYf"
           style={
             Object {
               "width": "18%",
@@ -293,7 +293,7 @@ SCHIT price also increases when people use the Shrimpcoin contract, as a portion
           </a>
         </div>
         <div
-          className="sc-fnVZcZ gnXSsI"
+          className="sc-fnVZcZ bwjFYf"
           style={
             Object {
               "width": "18%",
@@ -444,7 +444,16 @@ SCHIT price also increases when people use the Shrimpcoin contract, as a portion
         }
       }
     >
-      <a>
+      <a
+        className="sc-bdnxRM hVhMjo"
+        color="white"
+        href="/contact"
+        style={
+          Object {
+            "fontSize": "1em",
+          }
+        }
+      >
         Contact us
       </a>
     </nav>
