@@ -2,7 +2,7 @@
 
 exports[`Header Primary 1`] = `
 <header
-  className="sc-dlnjwi HIxRO"
+  className="sc-dlnjwi ldtqaw"
   style={
     Object {
       "borderBottom": "0px",
@@ -45,7 +45,7 @@ exports[`Header Primary 1`] = `
 
 exports[`Header Secondary 1`] = `
 <header
-  className="sc-dlnjwi HIxRO"
+  className="sc-dlnjwi ldtqaw"
   style={
     Object {
       "borderBottom": "0px",

@@ -2,10 +2,10 @@
 
 exports[`Home 1`] = `
 <div
-  className="sc-hHEiqL dqOYKJ"
+  className="sc-dlMDgC bYRBqx"
 >
   <header
-    className="sc-dlnjwi HIxRO"
+    className="sc-dlnjwi ldtqaw"
     style={
       Object {
         "borderBottom": "0px",
@@ -45,7 +45,7 @@ exports[`Home 1`] = `
     </nav>
   </header>
   <div
-    className="sc-dlMDgC fmTrow"
+    className="sc-kfYoZR jZlBVS"
   >
     <div
       className="sc-hKFxyN eoejAR"
@@ -424,7 +424,7 @@ SCHIT price also increases when people use the Shrimpcoin contract, as a portion
     </div>
   </div>
   <footer
-    className="sc-dIvrsQ jjqUvl"
+    className="sc-dIvrsQ gAUafN"
   >
     <nav
       style={
