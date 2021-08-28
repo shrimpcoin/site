@@ -10,7 +10,7 @@ const Container = styled.footer`
   align-items: center;
 
   width: 100%;
-  z-index: 100;
+  z-index: 5;
 
   position: absolute;
   bottom: 0px;

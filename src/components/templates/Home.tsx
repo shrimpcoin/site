@@ -9,6 +9,7 @@ import { Three as FAQThree } from 'components/organisms/FAQ/Three';
 import { Four as FAQFour } from 'components/organisms/FAQ/Four';
 import { Five as FAQFive } from 'components/organisms/FAQ/Five';
 import { Footer } from 'components/molecules/Footer';
+import { DemoFooter } from 'components/molecules/DemoFooter';
 
 const Container = styled.div`
   position: relative;
@@ -36,5 +37,6 @@ export const Home: React.FC = (): React.ReactElement => (
       <FAQFive />
     </FAQGrid>
     <Footer />
+    {process.env.REACT_APP_DEMO_MODE === '1' && <DemoFooter />}
   </Container>
 );

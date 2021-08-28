@@ -17,7 +17,7 @@ const Container = styled.header<ContainerProps>`
   top: 0px;
   left: 0px;
   width: 100%;
-  z-index: 100;
+  z-index: 3;
 
   transition: all 0.2s ease;
 
