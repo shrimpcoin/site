@@ -5,7 +5,6 @@ COPY server/ .
 RUN cargo build --release
 
 FROM node:latest as site-builder
-ENV BUILD_PATH=/var/build
 WORKDIR /app
 COPY . .
 RUN yarn
