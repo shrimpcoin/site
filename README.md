@@ -1,5 +1,6 @@
 # shrimpco.in
 [![Build Status](https://app.travis-ci.com/shrimpcoin/site.svg?branch=development)](https://app.travis-ci.com/shrimpcoin/site)
+
 The source code for https://shrimpco.in and https://prawn.money.
 
 This project uses [Rocket](https://github.com/SergioBenitez/Rocket) and [React](https://github.com/facebook/react).

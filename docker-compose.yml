@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  site:
+    environment:
+      - BUILD_PATH=/var/build
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: shrimpcoin-site
+    ports:
+      - "8000:8000"
